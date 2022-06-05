@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning desktop development
 - 💞️ I’m looking to collaborate on multiple projects with the comunity
 - 📫 You can send me an email at kevydev@outlook.com
+- 💻 Visit my website kevydev.github.io/web/
