@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">I'm Kevin. Some people say I look like a pikachu...</h2>
 
 ###
