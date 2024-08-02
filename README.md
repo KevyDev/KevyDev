@@ -1,4 +1,4 @@
-<h2 align="left">👋🏻 I'm Kevin. And not, I'm not a Pikachu...</h2>
+<h1 align="left">👋🏻 I'm Kevin. And not, I'm not a Pikachu...</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Frontend</h4>
+<h3 align="left">Frontend</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">Backend</h4>
+<h3 align="left">Backend</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h4 align="left">Programming Languages</h4>
+<h3 align="left">Programming Languages</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h4 align="left">Databases</h4>
+<h3 align="left">Databases</h3>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h4 align="left">Tools and others</h4>
+<h3 align="left">Tools and others</h3>
 
 ###
 
