@@ -8,8 +8,6 @@ I've been writing code since 2019, developing various personal projects while I'
 
 ## Frontend
 
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="66" alt="html5 logo"  />
   <img width="5" />
@@ -28,9 +26,7 @@ I've been writing code since 2019, developing various personal projects while I'
 
 ###
 
-<h3 align="left">Backend</h3>
-
-###
+## Backend
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="66" alt="nodejs logo"  />
@@ -42,9 +38,7 @@ I've been writing code since 2019, developing various personal projects while I'
 
 ###
 
-<h3 align="left">Programming Languages</h3>
-
-###
+## Programming Languages
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="66" alt="python logo"  />
@@ -56,9 +50,7 @@ I've been writing code since 2019, developing various personal projects while I'
 
 ###
 
-<h3 align="left">Databases</h3>
-
-###
+## Databases
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="66" alt="mysql logo"  />
@@ -68,9 +60,7 @@ I've been writing code since 2019, developing various personal projects while I'
 
 ###
 
-<h3 align="left">Tools and others</h3>
-
-###
+## Tools and others
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="66" alt="linux logo"  />
