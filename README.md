@@ -8,7 +8,7 @@
 
 <h3 align="left">Frontend</h3>
 
-###
+##
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="66" alt="html5 logo"  />
@@ -30,7 +30,7 @@
 
 <h3 align="left">Backend</h3>
 
-###
+##
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="66" alt="nodejs logo"  />
@@ -44,7 +44,7 @@
 
 <h3 align="left">Programming Languages</h3>
 
-###
+##
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="66" alt="python logo"  />
@@ -58,7 +58,7 @@
 
 <h3 align="left">Databases</h3>
 
-###
+##
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="66" alt="mysql logo"  />
@@ -70,7 +70,7 @@
 
 <h3 align="left">Tools and others</h3>
 
-###
+##
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="66" alt="linux logo"  />
