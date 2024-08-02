@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I've been writing code since 2019, developing various personal projects while I'm self-taught in programming languages and frameworks. I've participated in national and international competitive programming events too. All of this has led me to possess the following skill stack:</h4>
+<h3 align="left">I've been writing code since 2019, developing various personal projects while I'm self-taught in programming languages and frameworks. I've participated in national and international competitive programming events too. All of this has led me to possess the following skill stack:</h3>
 
 ###
 
